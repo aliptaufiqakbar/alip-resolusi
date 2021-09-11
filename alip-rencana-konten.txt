@@ -5,3 +5,4 @@ Rencana Konten Alip :
 4. API management.
 5. Express JS
 6. RESTAPI
+7. Cloud Computing
