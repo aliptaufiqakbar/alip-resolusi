@@ -6,4 +6,5 @@ Rencana Konten Alip :
 5. Express JS
 6. RESTAPI
 7. Cloud Computing
-8. Angular JS
+8. Vue JS
+9. Python
